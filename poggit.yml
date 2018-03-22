@@ -1,2 +1,13 @@
-#If time is set to true, time will keep going to give out gifts
-time=true
++--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
++--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
++branches:
++- master
++projects:
++  GappleCooldown:
++    path: ""
++...
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
++projects:
++  GappleCooldown:
++    path: ""
++...

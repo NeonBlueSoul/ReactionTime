@@ -1,13 +1,5 @@
-+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
-+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
-+branches:
-+- master
-+projects:
-+  GappleCooldown:
-+    path: ""
-+...
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CaptainDuck/GappleCooldown
-+projects:
-+  GappleCooldown:
-+    path: ""
-+...
+projects:
+  GappleCooldown:
+    path: ""
+...
